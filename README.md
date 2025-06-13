@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student | Aspiring Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/pranaygunda06/blob/main/banner.png" alt="Pranay Gunda Banner" />
+  <img src="https://ibb.co/x85C6spw" alt="Pranay Gunda Banner" />
 </p>
 
 ---
