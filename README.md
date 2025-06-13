@@ -2,8 +2,10 @@
 <h3 align="center">CSE Student | Aspiring Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/pranaygunda06/assets/your-banner-image" alt="Pranay Gunda Banner" />
+  <img src="https://github.com/pranaygunda06/blob/main/banner.png" alt="Pranay Gunda Banner" />
 </p>
+
+---
 
 - 🎓 B.Tech CSE @ Avanthi Institute of Engineering (2027 Batch)  
 - 🧠 Currently working on: **Movement Guidance System** – AI-powered fitness & posture guidance  
