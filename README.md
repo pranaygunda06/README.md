@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/pranay-gunda-433093279">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/allxcric">
+  <a href="https://www.instagram.com/pranay__gunda">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
